@@ -12,7 +12,7 @@ export function registerLogCommands(program) {
       const logManager = new LogManager();
       try {
         await logManager.printLogs(options.out);
-        console.log(`✅ Commit log written to ${options.out}`);
+        console.log(`Commit log written to ${options.out}`);
       } catch (err) {
         console.error("Could not read git logs:", err.message);
       }
