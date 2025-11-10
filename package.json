@@ -1,0 +1,19 @@
+{
+  "name": "git-gud",
+  "version": "1.0.0",
+  "description": "A CLI tool for managing and viewing git commit logs easily.",
+  "main": "bin/gg.js",
+  "bin": {
+    "gg": "./bin/gg.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/gg.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "chalk": "^5.4.1"
+  },
+  "author": "Bradley Deans",
+  "license": "MIT"
+}
