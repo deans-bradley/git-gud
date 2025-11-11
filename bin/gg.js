@@ -7,8 +7,8 @@ const program = new Command();
 
 program
   .name("gg")
-  .description("Git Gud — a CLI to work smarter with git logs.")
-  .version("1.0.0");
+  .description("Git Gud — a CLI to work smarter with git")
+  .version("0.0.1");
 
 registerLogCommands(program);
 
