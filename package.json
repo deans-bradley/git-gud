@@ -1,7 +1,7 @@
 {
   "name": "git-gud",
-  "version": "1.0.0",
-  "description": "A CLI tool for managing and viewing git commit logs easily.",
+  "version": "0.0.1",
+  "description": "A CLI tool for managing and viewing git repos easily.",
   "main": "bin/gg.js",
   "bin": {
     "gg": "./bin/gg.js"
