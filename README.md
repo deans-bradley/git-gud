@@ -98,3 +98,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Bradley Deans**
 - GitHub: [@deans-bradley](https://github.com/deans-bradley)
+
+## **Change Log**
+
+### 0.0.1 (2025-11-10)
+- Initial release
+- CLI tool for printing git commit logs
+- Output to custom file with `-o` or `--out`
+- Uses Commander.js for command parsing
+- Uses Chalk for colored output
