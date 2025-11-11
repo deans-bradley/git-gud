@@ -1,10 +1,10 @@
 # **GitGud**
 
-> A simple Node.js CLI tool for reading and grouping git commit messages by date.
+> A simple Node.js CLI tool for managing and viewing local git repos easily.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js->=22.14.0-green.svg)](https://nodejs.org/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/deans-bradley/git-gud)
+[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/deans-bradley/git-gud)
 
 ## **Installation**
 
